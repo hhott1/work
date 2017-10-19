@@ -1,2 +1,0 @@
-RewriteCond¢H{HTTP_USER_AGENT} libwww-perl¡C* 
-RewriteRule¡C*¡H[F¡AL]
