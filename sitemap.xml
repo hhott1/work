@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <!-- The <loc> tag is the only one that’s required. -->
+    <loc>https://www.ccweight.com</loc>
+    <!-- OPTIONAL: Priority will default to 0.5 but can go up to 1.0. -->
+    <priority>1.0</priority>
+    <!-- OPTIONAL: Must be in this format -->
+    <lastmod>2017-10-27</lastmod>
+    <!-- OPTIONAL: can be always, hourly, daily, weekly, monthly, yearly, never -->
+    <changefreq>daily</changefreq>
+  </url>
+
+  <!-- If you want to add another page, add another <url> tag -->
+  <url>
+    <loc>https://www.ccweight.com/error404.html</loc>
+  </url>
+
+</urlset>
