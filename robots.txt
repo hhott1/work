@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-sitemap: https://www.ccweight.com/sitemap.xml
